@@ -1,5 +1,7 @@
 # -Deep-Learning-Based-Recommendation
-                                             <img width="299" alt="Screen Shot 2023-11-02 at 10 42 45 PM" src="https://github.com/ProBag/-Deep-Learning-Based-Recommendation/assets/143302669/2ccd31dc-dee5-4997-993d-02894792b879">
+ <div style="text-align:center; border: 1px solid black; padding: 10px;">
+  <img width="299" alt="Screen Shot 2023-11-02 at 10 42 45 PM" src="https://github.com/ProBag/-Deep-Learning-Based-Recommendation/assets/143302669/2ccd31dc-dee5-4997-993d-02894792b879">
+</div>
 
 
 Explore the powerful combination of wide linear models and deep neural networks for personalized book recommendations using the Wide &amp; Deep learning approach.
