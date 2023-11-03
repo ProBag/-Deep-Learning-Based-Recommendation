@@ -4,7 +4,7 @@
 </div>
 
 
-Explore the powerful combination of wide linear models and deep neural networks for personalized book recommendations using the Wide &amp; Deep learning approach.
+Explore the powerful combination of wide linear models and deep neural networks for personalized book recommendations using the Wide &amp; Deep learning approach in PyTorch.The model learns user and item features beyond ID numbers. Achieve prediction accuracy with an 80/20 train-test split.
 
 Paper referred: https://arxiv.org/abs/1606.07792
 
@@ -12,4 +12,4 @@ For a more thorough review of the paper: https://youtu.be/fLD1axAqsNQ?feature=sh
 
 Dataset: https://www.kaggle.com/code/jirakst/book-recommendation/input
 
-Build a Wide and Deep Recommender system in PyTorch for the Book review dataset. The model learns user and item features beyond ID numbers. Achieve prediction accuracy with an 80/20 train-test split.
+ 
