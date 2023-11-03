@@ -4,7 +4,7 @@
 </div>
 
 
-Explore the powerful combination of wide linear models and deep neural networks for personalized book recommendations using the Wide &amp; Deep learning approach in PyTorch.The model learns user and item features beyond ID numbers. Achieve prediction accuracy with an 80/20 train-test split.
+The model learns user and item features beyond ID numbers. Achieve prediction accuracy with an 80/20 train-test split.
 
 Paper referred: https://arxiv.org/abs/1606.07792
 
